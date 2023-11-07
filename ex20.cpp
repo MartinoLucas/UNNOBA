@@ -62,7 +62,7 @@ void aumentarPID(Nodo*& fin, int PID, int cantAumento){
             cout<<"No existe el id " << PID << endl;
         }
     } else {
-        cout<<"La lista se encuentra vacia :/"<<endl;
+        cout<<"La lista se encuentra vacia :("<<endl;
     }
     
     
